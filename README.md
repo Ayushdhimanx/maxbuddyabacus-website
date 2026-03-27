@@ -17,7 +17,7 @@ A modern React-based website developed for an educational institute providing ab
 - HTML, CSS, JavaScript
 
 ## 📸 Preview
-![Homepage](screenshots/homepage.png)
+![Homepage](Screenshots/homepage.png)
 
 ## 🔒 Code Availability
 Due to client confidentiality, the source code is not publicly available.
